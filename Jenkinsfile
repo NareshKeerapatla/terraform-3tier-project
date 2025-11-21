@@ -14,7 +14,7 @@ pipeline {
 
         stage('checkout') {
             steps {
-                git 'https://github.com/ReyazShaik/terraform-3tier-project.git'
+                git 'https://github.com/NareshKeerapatla/terraform-3tier-project.git'
             }
         }
 
