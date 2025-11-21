@@ -55,6 +55,11 @@ Click Build with Parameters
 
 Choose:
 
-ACTION = apply
+ACTION = apply<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f2f1eb6f-b6fd-4514-9c83-33762b5a4964" />
+
 
 Terraform will begin creating your VPC, subnets, EC2, RDS, ALB, and S3
+
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/35f31040-5eec-46c0-9f0a-e80721b62376" />
+
+
